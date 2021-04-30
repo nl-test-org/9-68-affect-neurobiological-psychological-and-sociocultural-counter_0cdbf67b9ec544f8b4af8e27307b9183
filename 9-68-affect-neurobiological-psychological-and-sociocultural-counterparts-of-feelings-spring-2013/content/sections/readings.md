@@ -1,0 +1,32 @@
+---
+course_id: 9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013
+layout: course_section
+menu:
+  leftnav:
+    identifier: b822ac293d439f0e700d673ce5346d74
+    name: Readings
+    weight: 40
+title: Readings
+type: course
+uid: b822ac293d439f0e700d673ce5346d74
+
+---
+
+Readings and viewings should be done in advance of each class and in the order specified.
+
+\[ZAAM\] = Pirsig, Robert M. _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_. Vintage / Ebury, 2006. ISBN: 9780099322610.
+
+| SES # | LECTURE NOTES TOPICS | READINGS / VIEWINGS |
+| --- | --- | --- |
+| 1 | Introduction and Overview |  {{< br >}}{{< br >}} Working groups handout {{< br >}}{{< br >}} Human systems: Aspects and levels of organization and development handout {{< br >}}{{< br >}} Affect / effect handout {{< br >}}{{< br >}}  |
+| 2 | Human Systems |  {{< br >}}{{< br >}} 2.1 [Syllabus]({{< baseurl >}}/sections/syllabus) {{< br >}}{{< br >}} 2.2 Adler, Mortimer J., and Charles Van Doren. _How to Read a Book: The Classic Guide to Intelligent Reading_. Touchstone, 1972. ISBN: 9780671212094. {{< br >}}{{< br >}} 2.3 \[ZAAM\] Chapters 1–7. {{< br >}}{{< br >}} 2.4 DiSanto, Ronald L., Thomas J. Steele, and Robert M. Pirsig. Sections 1, 2, 11, and 12 in _Guidebook to Zen and the Art of Motorcycle Maintenance_. William Morrow Paperbacks, 1990. ISBN: 9780688060695. {{< br >}}{{< br >}}  |
+| 3 | MFA Field Trip |  {{< br >}}{{< br >}} 3.1 Developmental schemes handout {{< br >}}{{< br >}} 3.2 MFA field trip guide and timeline handout {{< br >}}{{< br >}} 3.3 "[_Powers of Ten_](http://poweroften.ca/)." Written and directed by Ray, and Charles Eames. 1977. \[Eames Office, LLC, USA, digital production.\] {{< br >}}{{< br >}} 3.4 Timescales handout {{< br >}}{{< br >}}  |
+| 4 | Quality in Arts, Technology and Life | \[ZAAM\] Chapters 8–15. |
+| 5 | _Problematique du changement_ I |  {{< br >}}{{< br >}} 5.1 Kuhn, Thomas S. _The Structure of Scientific Revolutions_. University of Chicago Press, 1970. ISBN: 9780226458045. {{< br >}}{{< br >}} 5.2 Snow, Charles Percy. "[The Two Cultures](http://www.newstatesman.com/cultural-capital/2013/01/c-p-snow-two-cultures)." _New Statesman_ 6 (1956): 413–4. {{< br >}}{{< br >}} 5.3 "[_Mindwalk_](http://www.imdb.com/title/tt0100151/)." Directed by Bernt Capra. Color, 112 min. 1990. \[Distributed by Triton Pictures, USA, digital production.\] {{< br >}}{{< br >}} 5.4 Chorover, Stephan L. "Comparing and Contrasting Scientific Paradigms." In _HomeWork: An Environmental Literacy Primer_. Collaborative Learning Systems, Cambridge, MA, 1995. {{< br >}}{{< br >}}  |
+| 6 | What is Quality in (my MIT) Education? |  {{< br >}}{{< br >}} 6.1 \[ZAAM\] Chapters 16–26. {{< br >}}{{< br >}} 6.2 Smith, Page. Chapters 1, and 14 in _Killing the Spirit: Higher Education in America_. Penguin Books, 1991. ISBN: 9780140121834. {{< br >}}{{< br >}}  |
+| 7 | Wrapping Up Phase One |  {{< br >}}{{< br >}} 7.1 \[ZAAM\] Chapters 27–32. {{< br >}}{{< br >}} 7.2 Berlioz, Hector. "[_Keeping Score Season 2: Symphonie Fantastique_](https://www.pbs.org/keepingscore/episodes.html)." Michael Tilson Thomas and the San Francisco Symphony. Originally aired on October 16, 2009. \[PBS, USA, video production.\] {{< br >}}{{< br >}}  |
+| 8 | The Neuropsychology of Affect |  {{< br >}}{{< br >}} 8.1 Damasio, Antonio R. Chapters 1–3 in _Looking for Spinoza: Joy, Sorrow, and the Feeling Brain_. Vintage, 2004. ISBN: 9780099421832. {{< br >}}{{< br >}} 8.2 Oatley, Keith, Dacher Keltner, and Jennifer M. Jenkins. Chapter 5 in _Understanding Emotions_. Wiley-Blackwell, 2006. ISBN: 9781405131032. {{< br >}}{{< br >}} 8.3 "[_Stress: Portrait of a Killer_](https://news.stanford.edu/news/2008/september10/stress-091008.html)." Produced, directed and written by John Heminway. 2008. \[National Geographic Television, Washington, DC, video production.\] {{< br >}}{{< br >}}  |
+| 9 | Neurosurgery: The Science of Violence and Vice-Versa |  {{< br >}}{{< br >}} 9.1 Crichton, Michael. _The Terminal Man_. Arrow / Children's, 1996. ISBN: 9780099442110. {{< br >}}{{< br >}} 9.1 (cont.) "[_The Terminal Man_](http://www.imdb.com/title/tt0072267/)." Directed by Mike Hodges. Color, 107 min. 1974. \[Warner Bros, Burbank, CA, video production.\] {{< br >}}{{< br >}} 9.2 Mark, Vernon H., and Frank R. Ervin. _Violence and the Brain_. Medical Department, Harper & Row, 1970. {{< br >}}{{< br >}} 9.3 Kille case chronology handout {{< br >}}{{< br >}} 9.4 Chorover, Stephan L. "The Pacification of the Brain: From Phrenology to Psychosurgery" in _Current Controversies in Neuro-surgery_. Saunders, 1976, pp. 730–67. ISBN: 9780721665573. {{< br >}}{{< br >}} 9.5 ———. _Physician vs. Researcher: Values in Conflict?_ Wellesley 4, 1979. {{< br >}}{{< br >}} 9.6 "Violence: A Localizable Problem?" in _The Psychosurgery Debate: Scientific, Ethical and Legal Perspectives_. Edited by Elliot S. Valenstein. W. H. Freeman & Company Limited, 1980. ISBN: 9780716711575. {{< br >}}{{< br >}}  |
+| 10 | Field Trip: A Walk Around the Block | 10.1 A walk around the block handout |
+| 11 | Fathering the Unthinkable? |  {{< br >}}{{< br >}} 11.1 Frayn, Michael. _Copenhagen_. Anchor, 2000. ISBN: 9780385720793. {{< br >}}{{< br >}} 11.2 "[_Copenhagen_](http://www.imdb.com/title/tt0340057/)." Directed by Howard Davies. Color, 90 min. 2002. \[BBC, London, England, video production.\] [www.pbs.org/hollywoodpresents/copenhagen/index.html](http://www.pbs.org/hollywoodpresents/copenhagen/index.html) {{< br >}}{{< br >}}  |
+| 12 | _Problematique du changement_ II |  {{< br >}}{{< br >}} 12.1 Orr, David W. _Ecological Literacy: Education and the Transition to a Postmodern World_. State University of New York Press, 1992. ISBN: 9780791408735. {{< br >}}{{< br >}} 12.2 Chorover, Stephan L. Sections 1–2 in _HomeWork: An Environmental Literacy Primer_. Collaborative Learning Systems, Cambridge, MA, 1995. {{< br >}}{{< br >}} 12.3 Bateson, Gregory. _Mind and Nature: A Necessary Unity_. Wildwood House Limited, 1979. ISBN: 9780704530140. {{< br >}}{{< br >}} 12.4 Starke, Linda. Chapters 1, and 5 in _State of the World 2000: A Worldwatch Institute Report on Progress Toward a Sustainable Society_. W. W. Norton & Company, Foreword, Year-in-review. ISBN: 9780393319989. {{< br >}}{{< br >}}
